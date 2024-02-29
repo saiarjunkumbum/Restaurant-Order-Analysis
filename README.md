@@ -30,6 +30,7 @@ Objective 2:  Explore the Orders Table
 
 
 Objective 3:  Analyze Customer Behavior
+
 Goal : The main goal of this whole analysis is to dig into our customer data to first see which menu_items are doing well & also, see what the top customers seem to like the best.
 So, now that we’ve explored the menu_items table & order_details table, we’ll be able to answer those questions. 
 
